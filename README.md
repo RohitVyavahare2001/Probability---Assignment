@@ -26,7 +26,7 @@ while alive:
     sleep()
     code()
     repeat()</pre>
-          <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200px"/>
+          <img src="https://giphy.com/gifs/PizzaNinjas-coding-pizza-ninjas-pizzaninjas-jBOOXxSJfG8kqMxT11" width="100%" height="200px"/>
         </div>
       </td>
     </tr>
