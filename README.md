@@ -10,7 +10,7 @@
 
 ## 🚀 My Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,azure,docker,cassandra,fastapi,flask,gcp,kubernetes,git,github,githubactions,mongodb,mysql,opencv,postgres,postman,sklearn,vscode&theme=dark&perline=6" width="600px"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,azure,docker,cassandra,fastapi,flask,gcp,git,github,mongodb,mysql,opencv,postgres,postman,sklearn&theme=dark&perline=6" width="600px"/>
 </div>
 
 <div align="center">
