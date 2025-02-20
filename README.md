@@ -1,7 +1,7 @@
 <div align="center">
 
 <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0EF7F7&center=true&vCenter=true&random=false&width=500&lines=AI+Engineer;Machine+Learning+Specialist;Deep+Learning;NLP+Engineer;LLM's;Agents" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=500&lines=AI+Engineer;Machine+Learning+Specialist;Deep+Learning;NLP+Engineer;LLM's;Agents" />
 </h3>
 
 </div>
@@ -19,24 +19,24 @@
         
         <div align="center">
           <pre>
-🔥 model.compile(
+💡 model.compile(
      life = "Coding",
      passion = "AI",
      mission = "Innovation"
-) 🔥</pre>
-          <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFtbzNvMTAzZ3NycGZsaWlxdjE4eXJkOXp3dTR5bTRwazZmdjJoNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200px"/>
+) 💡</pre>
+          <img src="https://media1.giphy.com/media/3o7bu8sRnYpTOG1p8k/giphy.gif" width="100%" height="200px"/>
         </div>
       </td>
       <td width="50%">
         
         <div align="center">
           <pre>
-🚀 while alive:
+🧠 while alive:
         eat()
         sleep()
         code()
-        repeat() 🚀</pre>
-          <img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" height="200px"/>
+        repeat() 🧠</pre>
+          <img src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100%" height="200px"/>
         </div>
       </td>
     </tr>
