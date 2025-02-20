@@ -15,7 +15,7 @@ model.compile(
   passion = "AI",
   mission = "Innovation"
 )</pre>
-          <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%" height="200px"/>
+          <img src="https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" height="200px"/>
         </div>
       </td>
       <td width="50%" style="border: 2px solid #3CE0F7; padding: 10px;">
@@ -26,7 +26,7 @@ while alive:
     sleep()
     code()
     repeat()</pre>
-          <img src="https://giphy.com/gifs/PizzaNinjas-coding-pizza-ninjas-pizzaninjas-jBOOXxSJfG8kqMxT11" width="100%" height="200px"/>
+          <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif" width="100%" height="200px"/>
         </div>
       </td>
     </tr>
