@@ -5,20 +5,15 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,13,35&height=150&section=header&text=Rohit%20Vyavahare&fontSize=90&animation=fadeIn&fontAlignY=45&fontColor=fff"/>
-</div>
-
-## 🚀 My Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,azure,docker,cassandra,fastapi,flask,gcp,git,github,mongodb,mysql,opencv,postgres,postman,sklearn&theme=dark&perline=6" width="600px"/>
+  <h1 style="font-size: 50px; color: #3CE0F7;">Rohit Vyavahare</h1>
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <div align="center">
-          <pre>
+        <div align="center" style="border: 2px solid #3CE0F7; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+          <pre style="color: #3CE0F7; font-size: 16px;">
 model.compile(
   life = "Coding",
   passion = "AI",
@@ -28,8 +23,8 @@ model.compile(
         </div>
       </td>
       <td width="50%">
-        <div align="center">
-          <pre>
+        <div align="center" style="border: 2px solid #3CE0F7; border-radius: 10px; padding: 10px; background-color: #0d1117;">
+          <pre style="color: #3CE0F7; font-size: 16px;">
 while alive:
     eat()
     sleep()
@@ -40,4 +35,10 @@ while alive:
       </td>
     </tr>
   </table>
+</div>
+
+<!-- My Tech Stack -->
+<div align="center">
+  <h2>🚀 My Tech Stack</h2>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,anaconda,azure,docker,cassandra,fastapi,flask,gcp,git,kubernetes,github,githubactions,ai,mongodb,mysql,opencv,postgres,postman,sklearn,vscode&theme=dark&perline=6" width="600px"/>
 </div>
