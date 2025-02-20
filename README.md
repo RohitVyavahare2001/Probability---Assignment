@@ -19,3 +19,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,100:FFD700&height=180&section=header&text=ॐ%20Rohit%20Vyavahare%20ॐ&fontSize=75&animation=fadeIn&fontAlignY=42&fontColor=FFFFFF&fontAlign=50"/>
 
+
+<div align="center">
+  <h2>🕉️ Ancient Wisdom in AI 🕉️</h2>
+  <h3>🧠 "ज्ञानं परमं बलम्" — Knowledge is the Supreme Power.</h3>
+  <h4>🔱 Integrating Intelligence with Spirituality 🔱</h4>
+</div>
+
