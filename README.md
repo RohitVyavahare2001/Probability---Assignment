@@ -15,7 +15,7 @@ model.compile(
   passion = "AI",
   mission = "Innovation"
 )</pre>
-          <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,anaconda,azure,docker,cassandra,fastapi,flask,gcp,git,kubernetes,github,githubactions,ai,mongodb,mysql,opencv,postgres,postman,sklearn,vscode&theme=dark&perline=6](https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)" width="100%" height="200px"/>
+          <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%" height="200px"/>
         </div>
       </td>
       <td width="50%" style="border: 2px solid #3CE0F7; padding: 10px;">
