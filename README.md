@@ -26,7 +26,7 @@ while alive:
     sleep()
     code()
     repeat()</pre>
-          <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif" width="100%" height="200px"/>
+          <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="100%" height="200px"/>
         </div>
       </td>
     </tr>
