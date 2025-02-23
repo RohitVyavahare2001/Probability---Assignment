@@ -4,7 +4,7 @@
     "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।<br>
     मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥"
   </h4>
-  <p><i>"You have a right to perform your duty, but not to the fruits of your actions."</i> — Bhagavad Gita 2.47</p>
+  <p><i>"You have a right to perform your duty, but not to the fruits of your actions."</i> — "Bhagavad Gita 2.47"</p>
 </div>
 
 <div align="center">
